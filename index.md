@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I have some thoughts worth sharing and some not. Feel free to discriminate among them.
 
-![Image of fast.ai logo](images/logo.png)
+# About me
 
-## This is a title
+I enjoy freedom and learning. Frugality and trying to solve difficult problems move me in that direction. 
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Currently, I work as Data Scientist. Interested in Data, AI and Startups.
